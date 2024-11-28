@@ -1,15 +1,20 @@
 p{
  color: rgb(255, 0, 0);    
-}
-
-
-
+    beckground - color: aqua;
+    text-align: center;
+    padding: 28px
+ }
 
 
 .container{
     width: 90%;
     margin: 20px; auto;
     padding: 15px;
+    background-color: beige;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3); 
+    
+
 }
 
 
