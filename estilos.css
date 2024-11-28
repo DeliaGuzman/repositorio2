@@ -1,11 +1,11 @@
 p {
- color: red;    
-    background-color:  aqua;
+    color: red;
+    background-color: aqua;
     text-align: center;
-    padding: 28px
- }
+    padding: 28px;
+}
 
-.container{
+.container {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
@@ -13,15 +13,9 @@ p {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
 }
-.container p{
-    font-size: 16p;
+
+.container p {
+    font-size: 16px;
     color: chocolate;
-    line-height: 1.6;  
+    line-height: 1.6;
 }
-
-
-
-
-
-
-
